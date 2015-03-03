@@ -30,3 +30,13 @@ categories_path: categories.html
 tags_path: tags.html
 
 BASE_PATH:
+
+assets:
+  debug: false
+  js_compressor:  uglifier
+  css_compressor: sass
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _vendors/stylesheets
+    - _vendors/javascripts
