@@ -12,18 +12,17 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Zach Hall
 
-description: Stylish Jekyll Theme
+description: Zach Hall's Personal Website
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Zach Hall
+  email: zach.hall0624@gmail.com
+  github: zach0624
+  twitter: zachhall0624
+  linkedin: zach.hall0624@gmail.com
+  bio: Software Developer at Tyemill
+  email_md5: c2ebdf5906c0a9b97e37fb2386526753
 
 rss_path: feed.xml
 categories_path: categories.html
